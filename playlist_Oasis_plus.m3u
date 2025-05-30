@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="monumentalsportsnetwork.us" tvg-name="USA Monumental Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Monumental_Sports_Network_Logo.png/250px-Monumental_Sports_Network_Logo.png" group-title="USA | SPORTS",USA Monumental Sports Network
+http://lordstreams.live:80/Oasis/Oasis/287246
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="accnetwork.us" tvg-name="USA ACC Network UHD" tvg-logo="https://logo.iptveditor.com/accnetwork.png" group-title="USA | Ultra HD Exclusive",USA ACC Network UHD
+http://lordstreams.live:80/Oasis/Oasis/269013
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="accuweather.us" tvg-name="USA Accuweather UHD" tvg-logo="https://logo.iptveditor.com/accuweather.png" group-title="USA | Ultra HD Exclusive",USA Accuweather UHD
+http://lordstreams.live:80/Oasis/Oasis/269012
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amc.us" tvg-name="USA AMC UHD" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="USA | Ultra HD Exclusive",USA AMC UHD
+http://lordstreams.live:80/Oasis/Oasis/269011
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="americanheroeschannel.us" tvg-name="USA AHC UHD" tvg-logo="https://logo.iptveditor.com/ahc.png" group-title="USA | Ultra HD Exclusive",USA AHC UHD
+http://lordstreams.live:80/Oasis/Oasis/269010
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="animalplanet.us" tvg-name="USA Animal Planet UHD" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="USA | Ultra HD Exclusive",USA Animal Planet UHD
+http://lordstreams.live:80/Oasis/Oasis/269009
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aspire.us" tvg-name="USA Aspire UHD" tvg-logo="https://logo.iptveditor.com/aspire.png" group-title="USA | Ultra HD Exclusive",USA Aspire UHD
+http://lordstreams.live:80/Oasis/Oasis/269008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="axstv.us" tvg-name="USA AXS TV UHD" tvg-logo="https://logo.iptveditor.com/axstv.png" group-title="USA | Ultra HD Exclusive",USA AXS TV UHD
+http://lordstreams.live:80/Oasis/Oasis/269007
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcamerica.us" tvg-name="USA BBC America UHD" tvg-logo="https://logo.iptveditor.com/bbcamerica.png" group-title="USA | Ultra HD Exclusive",USA BBC America UHD
+http://lordstreams.live:80/Oasis/Oasis/269006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bbcworldnews.us" tvg-name="USA BBC News UHD" tvg-logo="https://logo.iptveditor.com/bbcnews.png" group-title="USA | Ultra HD Exclusive",USA BBC News UHD
+http://lordstreams.live:80/Oasis/Oasis/269005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bet.us" tvg-name="USA BET UHD" tvg-logo="https://logo.iptveditor.com/bet.png" group-title="USA | Ultra HD Exclusive",USA BET UHD
+http://lordstreams.live:80/Oasis/Oasis/269004
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="betwest.us" tvg-name="USA BET W UHD" tvg-logo="https://logo.iptveditor.com/bet.png" group-title="USA | Ultra HD Exclusive",USA BET W UHD
+http://lordstreams.live:80/Oasis/Oasis/269003
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bloomberg.us" tvg-name="USA Bloomberg TV UHD" tvg-logo="https://logo.iptveditor.com/bloombergtv.png" group-title="USA | Ultra HD Exclusive",USA Bloomberg TV UHD
+http://lordstreams.live:80/Oasis/Oasis/269002
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetwork.us" tvg-name="USA Cartoon Network UHD" tvg-logo="https://logo.iptveditor.com/cartoonnet.png" group-title="USA | Ultra HD Exclusive",USA Cartoon Network UHD
+http://lordstreams.live:80/Oasis/Oasis/269001
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbsnewsbayarea.us" tvg-name="USA CBS NEWS BAY UHD" tvg-logo="https://logo.iptveditor.com/cbsnewsbayarea.png" group-title="USA | Ultra HD Exclusive",USA CBS NEWS BAY UHD
+http://lordstreams.live:80/Oasis/Oasis/268999
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cleotv.us" tvg-name="USA CLEO TV UHD" tvg-logo="https://logo.iptveditor.com/cleotv.png" group-title="USA | Ultra HD Exclusive",USA CLEO TV UHD
+http://lordstreams.live:80/Oasis/Oasis/268998
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cmt.us" tvg-name="USA CMT UHD" tvg-logo="https://logo.iptveditor.com/cmt.png" group-title="USA | Ultra HD Exclusive",USA CMT UHD
+http://lordstreams.live:80/Oasis/Oasis/268997
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnbc.us" tvg-name="USA CNBC UHD" tvg-logo="https://logo.iptveditor.com/cnbc.png" group-title="USA | Ultra HD Exclusive",USA CNBC UHD
+http://lordstreams.live:80/Oasis/Oasis/268996
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cnn.us" tvg-name="USA CNN UHD" tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="USA | Ultra HD Exclusive",USA CNN UHD
+http://lordstreams.live:80/Oasis/Oasis/268995
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedytv.us" tvg-name="USA Comedy TV UHD" tvg-logo="https://logo.iptveditor.com/comedytv.png" group-title="USA | Ultra HD Exclusive",USA Comedy TV UHD
+http://lordstreams.live:80/Oasis/Oasis/268994
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentral.us" tvg-name="USA Comedy Central UHD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="USA | Ultra HD Exclusive",USA Comedy Central UHD
+http://lordstreams.live:80/Oasis/Oasis/268993
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="comedycentralwest.us" tvg-name="USA Comedy Central West UHD" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="USA | Ultra HD Exclusive",USA Comedy Central West UHD
+http://lordstreams.live:80/Oasis/Oasis/268992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cookingchannel.us" tvg-name="USA Cooking Channel UHD" tvg-logo="https://logo.iptveditor.com/cookingchannel.png" group-title="USA | Ultra HD Exclusive",USA Cooking Channel UHD
+http://lordstreams.live:80/Oasis/Oasis/268991
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="daystar.us" tvg-name="USA Day STAR UHD" tvg-logo="https://logo.iptveditor.com/daystar.png" group-title="USA | Ultra HD Exclusive",USA Day STAR UHD
+http://lordstreams.live:80/Oasis/Oasis/268990
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="destinationamerica.us" tvg-name="USA Destination America UHD" tvg-logo="https://logo.iptveditor.com/destinationamerica.png" group-title="USA | Ultra HD Exclusive",USA Destination America UHD
+http://lordstreams.live:80/Oasis/Oasis/268989
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoverychannel.us" tvg-name="USA Discovery UHD" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="USA | Ultra HD Exclusive",USA Discovery UHD
+http://lordstreams.live:80/Oasis/Oasis/268988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneychannel.us" tvg-name="USA Disney channel UHD" tvg-logo="https://logo.iptveditor.com/disneychannelen.png" group-title="USA | Ultra HD Exclusive",USA Disney channel UHD
+http://lordstreams.live:80/Oasis/Oasis/268987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneyjunior.us" tvg-name="USA Disney JR UHD" tvg-logo="https://logo.iptveditor.com/disneyjr.png" group-title="USA | Ultra HD Exclusive",USA Disney JR UHD
+http://lordstreams.live:80/Oasis/Oasis/268986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneyxd.us" tvg-name="USA Disney XD UHD" tvg-logo="https://logo.iptveditor.com/disneyxd.png" group-title="USA | Ultra HD Exclusive",USA Disney XD UHD
+http://lordstreams.live:80/Oasis/Oasis/268985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eentertainment.us" tvg-name="USA E! UHD" tvg-logo="https://logo.iptveditor.com/e.png" group-title="USA | Ultra HD Exclusive",USA E! UHD
+http://lordstreams.live:80/Oasis/Oasis/268984
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn.us" tvg-name="USA ESPN UHD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="USA | Ultra HD Exclusive",USA ESPN UHD
+http://lordstreams.live:80/Oasis/Oasis/268983
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn2.us" tvg-name="USA ESPN 2 UHD" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="USA | Ultra HD Exclusive",USA ESPN 2 UHD
+http://lordstreams.live:80/Oasis/Oasis/268982
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espnnews.us" tvg-name="USA ESPN NEWS UHD" tvg-logo="https://logo.iptveditor.com/espnnews.png" group-title="USA | Ultra HD Exclusive",USA ESPN NEWS UHD
+http://lordstreams.live:80/Oasis/Oasis/268981
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espnu.us" tvg-name="USA ESPN U UHD" tvg-logo="https://logo.iptveditor.com/espnu.png" group-title="USA | Ultra HD Exclusive",USA ESPN U UHD
+http://lordstreams.live:80/Oasis/Oasis/268980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rfdtv.us" tvg-name="USA RFD TV" tvg-logo="https://logo.iptveditor.com/rfdtv.png" group-title="USA | Ultra HD Exclusive",USA RFD TV
+http://lordstreams.live:80/Oasis/Oasis/268979
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fm.us" tvg-name="USA FM TV" tvg-logo="https://logo.iptveditor.com/fmtv.png" group-title="USA | Ultra HD Exclusive",USA FM TV
+http://lordstreams.live:80/Oasis/Oasis/268978
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foodnetwork.us" tvg-name="USA Food Network UHD" tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="USA | Ultra HD Exclusive",USA Food Network UHD
+http://lordstreams.live:80/Oasis/Oasis/268977
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxbusiness.us" tvg-name="USA Fox Business UHD" tvg-logo="https://logo.iptveditor.com/foxbusiness.png" group-title="USA | Ultra HD Exclusive",USA Fox Business UHD
+http://lordstreams.live:80/Oasis/Oasis/268976
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxnews.us" tvg-name="USA FOX NEWS UHD" tvg-logo="https://logo.iptveditor.com/foxnews.png" group-title="USA | Ultra HD Exclusive",USA FOX NEWS UHD
+http://lordstreams.live:80/Oasis/Oasis/268975
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports1.us" tvg-name="USA FS1 UHD" tvg-logo="https://logo.iptveditor.com/fs1.png" group-title="USA | Ultra HD Exclusive",USA FS1 UHD
+http://lordstreams.live:80/Oasis/Oasis/268974
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="freeform.us" tvg-name="USA Freeform UHD" tvg-logo="https://logo.iptveditor.com/freeform.png" group-title="USA | Ultra HD Exclusive",USA Freeform UHD
+http://lordstreams.live:80/Oasis/Oasis/268973
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports2.us" tvg-name="USA FS2 UHD" tvg-logo="https://logo.iptveditor.com/fs2.png" group-title="USA | Ultra HD Exclusive",USA FS2 UHD
+http://lordstreams.live:80/Oasis/Oasis/268972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fusetv.us" tvg-name="USA Fuse UHD" tvg-logo="https://logo.iptveditor.com/fuse.png" group-title="USA | Ultra HD Exclusive",USA Fuse UHD
+http://lordstreams.live:80/Oasis/Oasis/268971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fx.us" tvg-name="USA FX UHD" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="USA | Ultra HD Exclusive",USA FX UHD
+http://lordstreams.live:80/Oasis/Oasis/268970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxm.us" tvg-name="USA FXM UHD" tvg-logo="https://logo.iptveditor.com/fxm.png" group-title="USA | Ultra HD Exclusive",USA FXM UHD
+http://lordstreams.live:80/Oasis/Oasis/268969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxx.us" tvg-name="USA FXX UHD" tvg-logo="https://logo.iptveditor.com/fxx.png" group-title="USA | Ultra HD Exclusive",USA FXX UHD
+http://lordstreams.live:80/Oasis/Oasis/268968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fyi.us" tvg-name="USA FYI UHD" tvg-logo="https://logo.iptveditor.com/fyi.png" group-title="USA | Ultra HD Exclusive",USA FYI UHD
+http://lordstreams.live:80/Oasis/Oasis/268967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="galavision.us" tvg-name="USA Gala UHD" tvg-logo="https://logo.iptveditor.com/ala.png" group-title="USA | Ultra HD Exclusive",USA Gala UHD
+http://lordstreams.live:80/Oasis/Oasis/268966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="golfchannel.us" tvg-name="USA Golf UHD" tvg-logo="https://logo.iptveditor.com/golf.png" group-title="USA | Ultra HD Exclusive",USA Golf UHD
+http://lordstreams.live:80/Oasis/Oasis/268965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="greatamericanfamily.us" tvg-name="USA Great American Family UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Great_American_Family.webp" group-title="USA | Ultra HD Exclusive",USA Great American Family UHD
+http://lordstreams.live:80/Oasis/Oasis/268964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="gameshownetwork.us" tvg-name="USA Game Show UHD" tvg-logo="https://logo.iptveditor.com/gameshownetwork.png" group-title="USA | Ultra HD Exclusive",USA Game Show UHD
+http://lordstreams.live:80/Oasis/Oasis/268963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hallmarkchannel.us" tvg-name="USA Hallmark Channel" tvg-logo="https://logo.iptveditor.com/hallmarkchannel.png" group-title="USA | Ultra HD Exclusive",USA Hallmark Channel
+http://lordstreams.live:80/Oasis/Oasis/268962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbo.us" tvg-name="USA HBO East UHD" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="USA | Ultra HD Exclusive",USA HBO East UHD
+http://lordstreams.live:80/Oasis/Oasis/268961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbofamily.us" tvg-name="USA HBO Family East UHD" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="USA | Ultra HD Exclusive",USA HBO Family East UHD
+http://lordstreams.live:80/Oasis/Oasis/268960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbolatino.us" tvg-name="USA HBO Latino UHD" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="USA | Ultra HD Exclusive",USA HBO Latino UHD
+http://lordstreams.live:80/Oasis/Oasis/268959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbo2.us" tvg-name="USA HBO2 East UHD" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="USA | Ultra HD Exclusive",USA HBO2 East UHD
+http://lordstreams.live:80/Oasis/Oasis/268958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbocomedy.us" tvg-name="USA HBO Comedy UHD" tvg-logo="https://logo.iptveditor.com/hbocomedy.png" group-title="USA | Ultra HD Exclusive",USA HBO Comedy UHD
+http://lordstreams.live:80/Oasis/Oasis/268957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbosignature.us" tvg-name="USA HBO Signature East UHD" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="USA | Ultra HD Exclusive",USA HBO Signature East UHD
+http://lordstreams.live:80/Oasis/Oasis/268956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbowest.us" tvg-name="USA HBO West UHD" tvg-logo="https://logo.iptveditor.com/hbowest.png" group-title="USA | Ultra HD Exclusive",USA HBO West UHD
+http://lordstreams.live:80/Oasis/Oasis/268955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbozone.us" tvg-name="USA HBO Zone UHD" tvg-logo="https://logo.iptveditor.com/hbozone.png" group-title="USA | Ultra HD Exclusive",USA HBO Zone UHD
+http://lordstreams.live:80/Oasis/Oasis/268954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hbo2west.us" tvg-name="USA HBO 2 West UHD" tvg-logo="https://logo.iptveditor.com/hbo2west.png" group-title="USA | Ultra HD Exclusive",USA HBO 2 West UHD
+http://lordstreams.live:80/Oasis/Oasis/268953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hgtv.us" tvg-name="USA HGTV UHD" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="USA | Ultra HD Exclusive",USA HGTV UHD
+http://lordstreams.live:80/Oasis/Oasis/268952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="history.us" tvg-name="USA History UHD" tvg-logo="https://logo.iptveditor.com/history.png" group-title="USA | Ultra HD Exclusive",USA History UHD
+http://lordstreams.live:80/Oasis/Oasis/268951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hln.us" tvg-name="USA HLN UHD" tvg-logo="https://logo.iptveditor.com/hln.png" group-title="USA | Ultra HD Exclusive",USA HLN UHD
+http://lordstreams.live:80/Oasis/Oasis/268950
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hsn.us" tvg-name="USA HSN UHD" tvg-logo="https://logo.iptveditor.com/hsn.png" group-title="USA | Ultra HD Exclusive",USA HSN UHD
+http://lordstreams.live:80/Oasis/Oasis/268949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ifc.us" tvg-name="USA IFC UHD" tvg-logo="https://logo.iptveditor.com/ifc.png" group-title="USA | Ultra HD Exclusive",USA IFC UHD
+http://lordstreams.live:80/Oasis/Oasis/268948
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="insp.us" tvg-name="USA INSP UHD" tvg-logo="https://logo.iptveditor.com/insp.png" group-title="USA | Ultra HD Exclusive",USA INSP UHD
+http://lordstreams.live:80/Oasis/Oasis/268947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="investigationdiscovery.us" tvg-name="USA ID UHD" tvg-logo="https://logo.iptveditor.com/investigationplus1.png" group-title="USA | Ultra HD Exclusive",USA ID UHD
+http://lordstreams.live:80/Oasis/Oasis/268946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bravo.us" tvg-name="USA Bravo UHD" tvg-logo="https://logo.iptveditor.com/bravo.png" group-title="USA | Ultra HD Exclusive",USA Bravo UHD
+http://lordstreams.live:80/Oasis/Oasis/268945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinemax.us" tvg-name="USA Cinemax East UHD" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="USA | Ultra HD Exclusive",USA Cinemax East UHD
+http://lordstreams.live:80/Oasis/Oasis/268944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5starmax.us" tvg-name="USA Cinemax 5 StarMAX UHD" tvg-logo="https://logo.iptveditor.com/cinemax5starmax.png" group-title="USA | Ultra HD Exclusive",USA Cinemax 5 StarMAX UHD
+http://lordstreams.live:80/Oasis/Oasis/268943
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="actionmax.us" tvg-name="USA Cinemax ActionMAX UHD" tvg-logo="https://logo.iptveditor.com/cinemaxactionmax.png" group-title="USA | Ultra HD Exclusive",USA Cinemax ActionMAX UHD
+http://lordstreams.live:80/Oasis/Oasis/268942
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thrillermax.us" tvg-name="USA Cinemax Thriller Max UHD" tvg-logo="https://logo.iptveditor.com/cinemaxthrillermax.png" group-title="USA | Ultra HD Exclusive",USA Cinemax Thriller Max UHD
+http://lordstreams.live:80/Oasis/Oasis/268941
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moremax.us" tvg-name="USA Cinemax MoreMax UHD" tvg-logo="https://logo.iptveditor.com/cinemaxmoremax.png" group-title="USA | Ultra HD Exclusive",USA Cinemax MoreMax UHD
+http://lordstreams.live:80/Oasis/Oasis/268940
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="moviemax.us" tvg-name="USA Cinemax MovieMAX UHD" tvg-logo="https://logo.iptveditor.com/cinemaxmoviemax.png" group-title="USA | Ultra HD Exclusive",USA Cinemax MovieMAX UHD
+http://lordstreams.live:80/Oasis/Oasis/268939
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cinemaxwest.us" tvg-name="USA Cinemax West UHD" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="USA | Ultra HD Exclusive",USA Cinemax West UHD
+http://lordstreams.live:80/Oasis/Oasis/268938
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="justicecentral.us" tvg-name="USA Justice Central UHD" tvg-logo="https://logo.iptveditor.com/justicecentral.png" group-title="USA | Ultra HD Exclusive",USA Justice Central UHD
+http://lordstreams.live:80/Oasis/Oasis/268937
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="lifetime.us" tvg-name="USA Lifetime UHD" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="USA | Ultra HD Exclusive",USA Lifetime UHD
+http://lordstreams.live:80/Oasis/Oasis/268936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="lmn.us" tvg-name="USA LMN UHD" tvg-logo="https://logo.iptveditor.com/lmn.png" group-title="USA | Ultra HD Exclusive",USA LMN UHD
+http://lordstreams.live:80/Oasis/Oasis/268935
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="magnolianetwork.us" tvg-name="USA Magnolia UHD" tvg-logo="https://logo.iptveditor.com/mango.png" group-title="USA | Ultra HD Exclusive",USA Magnolia UHD
+http://lordstreams.live:80/Oasis/Oasis/268934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="metv.us" tvg-name="USA METV UHD" tvg-logo="https://logo.iptveditor.com/metv.png" group-title="USA | Ultra HD Exclusive",USA METV UHD
+http://lordstreams.live:80/Oasis/Oasis/268933
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mlbnetwork.us" tvg-name="USA MLB UHD" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | Ultra HD Exclusive",USA MLB UHD
+http://lordstreams.live:80/Oasis/Oasis/268932
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="motortrend.us" tvg-name="USA Motor Trend UHD" tvg-logo="https://logo.iptveditor.com/motortrend.png" group-title="USA | Ultra HD Exclusive",USA Motor Trend UHD
+http://lordstreams.live:80/Oasis/Oasis/268931
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="msnbc.us" tvg-name="USA MSNBC UHD" tvg-logo="https://logo.iptveditor.com/msnbc.png" group-title="USA | Ultra HD Exclusive",USA MSNBC UHD
+http://lordstreams.live:80/Oasis/Oasis/268930
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtv.us" tvg-name="USA MTV UHD" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="USA | Ultra HD Exclusive",USA MTV UHD
+http://lordstreams.live:80/Oasis/Oasis/268929
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtv.us" tvg-name="USA MTV W UHD" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="USA | Ultra HD Exclusive",USA MTV W UHD
+http://lordstreams.live:80/Oasis/Oasis/268928
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtv2.us" tvg-name="USA MTV 2 UHD" tvg-logo="https://logo.iptveditor.com/mtv2.png" group-title="USA | Ultra HD Exclusive",USA MTV 2 UHD
+http://lordstreams.live:80/Oasis/Oasis/268927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.us" tvg-name="USA NAT GEO Wild UHD" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="USA | Ultra HD Exclusive",USA NAT GEO Wild UHD
+http://lordstreams.live:80/Oasis/Oasis/268926
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nationalgeographic.us" tvg-name="USA NAT GEO UHD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="USA | Ultra HD Exclusive",USA NAT GEO UHD
+http://lordstreams.live:80/Oasis/Oasis/268925
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbatv.us" tvg-name="USA NBA UHD" tvg-logo="https://logo.iptveditor.com/nba.png" group-title="USA | Ultra HD Exclusive",USA NBA UHD
+http://lordstreams.live:80/Oasis/Oasis/268924
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcnewsnow.us" tvg-name="USA NBC News UHD" tvg-logo="https://logo.iptveditor.com/nbcnews.png" group-title="USA | Ultra HD Exclusive",USA NBC News UHD
+http://lordstreams.live:80/Oasis/Oasis/268923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcsportsbayarea.us" tvg-name="USA Sports Bay Area NBCSBAH UHD" tvg-logo="https://logo.iptveditor.com/nbcsportsbayarea.png" group-title="USA | Ultra HD Exclusive",USA Sports Bay Area NBCSBAH UHD
+http://lordstreams.live:80/Oasis/Oasis/268922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcsportscalifornia.us" tvg-name="USA Sports NBC California UHD" tvg-logo="https://logo.iptveditor.com/nbcsportscalifornia.png" group-title="USA | Ultra HD Exclusive",USA Sports NBC California UHD
+http://lordstreams.live:80/Oasis/Oasis/268921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="newsmax.us" tvg-name="USA Newsmax UHD" tvg-logo="https://logo.iptveditor.com/newsmax.png" group-title="USA | Ultra HD Exclusive",USA Newsmax UHD
+http://lordstreams.live:80/Oasis/Oasis/268920
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nflchannel.us" tvg-name="USA NFL UHD" tvg-logo="https://logo.iptveditor.com/nfl.png" group-title="USA | Ultra HD Exclusive",USA NFL UHD
+http://lordstreams.live:80/Oasis/Oasis/268919
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nhlnetwork.us" tvg-name="USA NHL UHD" tvg-logo="https://logo.iptveditor.com/nhl.png" group-title="USA | Ultra HD Exclusive",USA NHL UHD
+http://lordstreams.live:80/Oasis/Oasis/268918
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickjr.us" tvg-name="USA Nick JR UHD" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="USA | Ultra HD Exclusive",USA Nick JR UHD
+http://lordstreams.live:80/Oasis/Oasis/268917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nickelodeon.us" tvg-name="USA Nickelodeon UHD" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="USA | Ultra HD Exclusive",USA Nickelodeon UHD
+http://lordstreams.live:80/Oasis/Oasis/268916
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ovation.us" tvg-name="USA Ovation UHD" tvg-logo="https://logo.iptveditor.com/ovation.png" group-title="USA | Ultra HD Exclusive",USA Ovation UHD
+http://lordstreams.live:80/Oasis/Oasis/268915
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="own.us" tvg-name="USA OWN UHD" tvg-logo="https://logo.iptveditor.com/own.png" group-title="USA | Ultra HD Exclusive",USA OWN UHD
+http://lordstreams.live:80/Oasis/Oasis/268914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="oxygentruecrime.us" tvg-name="USA Oxygen True Crime UHD" tvg-logo="https://logo.iptveditor.com/oxygen.png" group-title="USA | Ultra HD Exclusive",USA Oxygen True Crime UHD
+http://lordstreams.live:80/Oasis/Oasis/268913
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramountnetwork.us" tvg-name="USA Paramount Network UHD" tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="USA | Ultra HD Exclusive",USA Paramount Network UHD
+http://lordstreams.live:80/Oasis/Oasis/268912
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pbskids.us" tvg-name="USA PBS KIDS UHD" tvg-logo="https://logo.iptveditor.com/pbskids.png" group-title="USA | Ultra HD Exclusive",USA PBS KIDS UHD
+http://lordstreams.live:80/Oasis/Oasis/268911
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="poptv.us" tvg-name="USA Pop TV UHD" tvg-logo="https://logo.iptveditor.com/poptv.png" group-title="USA | Ultra HD Exclusive",USA Pop TV UHD
+http://lordstreams.live:80/Oasis/Oasis/268910
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="scientologynetwork.us" tvg-name="USA Scientology network" tvg-logo="" group-title="USA | Ultra HD Exclusive",USA Scientology network
+http://lordstreams.live:80/Oasis/Oasis/268909
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="qvc.us" tvg-name="USA QVC UHD" tvg-logo="https://logo.iptveditor.com/qvc.png" group-title="USA | Ultra HD Exclusive",USA QVC UHD
+http://lordstreams.live:80/Oasis/Oasis/268908
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="reelzchannel.us" tvg-name="USA Reel Z UHD" tvg-logo="https://logo.iptveditor.com/reelz.png" group-title="USA | Ultra HD Exclusive",USA Reel Z UHD
+http://lordstreams.live:80/Oasis/Oasis/268907
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="revolt.us" tvg-name="USA Revolt UHD" tvg-logo="https://logo.iptveditor.com/revolt.png" group-title="USA | Ultra HD Exclusive",USA Revolt UHD
+http://lordstreams.live:80/Oasis/Oasis/268906
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rfdtv.us" tvg-name="USA RFD" tvg-logo="https://logo.iptveditor.com/rfd.png" group-title="USA | Ultra HD Exclusive",USA RFD
+http://lordstreams.live:80/Oasis/Oasis/268905
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="science.us" tvg-name="USA Science UHD" tvg-logo="https://logo.iptveditor.com/sci.png" group-title="USA | Ultra HD Exclusive",USA Science UHD
+http://lordstreams.live:80/Oasis/Oasis/268904
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn2.us" tvg-name="USA SEC ESPN UHD" tvg-logo="https://logo.iptveditor.com/espnsec.png" group-title="USA | Ultra HD Exclusive",USA SEC ESPN UHD
+http://lordstreams.live:80/Oasis/Oasis/268903
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shortstv.us" tvg-name="USA Shorts TV" tvg-logo="https://logo.iptveditor.com/shortstv.png" group-title="USA | Ultra HD Exclusive",USA Shorts TV
+http://lordstreams.live:80/Oasis/Oasis/268902
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtime.us" tvg-name="USA Showtime East UHD" tvg-logo="https://logo.iptveditor.com/showtime.png" group-title="USA | Ultra HD Exclusive",USA Showtime East UHD
+http://lordstreams.live:80/Oasis/Oasis/268901
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtime2.us" tvg-name="USA Showtime 2 UHD" tvg-logo="https://logo.iptveditor.com/showtime2.png" group-title="USA | Ultra HD Exclusive",USA Showtime 2 UHD
+http://lordstreams.live:80/Oasis/Oasis/268900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeextreme.us" tvg-name="USA Showtime Extreme UHD" tvg-logo="https://logo.iptveditor.com/showtimeextreme.png" group-title="USA | Ultra HD Exclusive",USA Showtime Extreme UHD
+http://lordstreams.live:80/Oasis/Oasis/268899
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimefamilyzone.us" tvg-name="USA Showtime Family Zone UHD" tvg-logo="https://logo.iptveditor.com/showtimefamilyzone.png" group-title="USA | Ultra HD Exclusive",USA Showtime Family Zone UHD
+http://lordstreams.live:80/Oasis/Oasis/268898
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimenext.us" tvg-name="USA Showtime Next UHD" tvg-logo="https://logo.iptveditor.com/showtimenext.png" group-title="USA | Ultra HD Exclusive",USA Showtime Next UHD
+http://lordstreams.live:80/Oasis/Oasis/268897
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimeshowcase.us" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://logo.iptveditor.com/showcase.png" group-title="USA | Ultra HD Exclusive",USA Showtime Showcase UHD
+http://lordstreams.live:80/Oasis/Oasis/268896
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="showtimewest.us" tvg-name="USA Showtime West UHD" tvg-logo="https://logo.iptveditor.com/showtimewest.png" group-title="USA | Ultra HD Exclusive",USA Showtime West UHD
+http://lordstreams.live:80/Oasis/Oasis/268895
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="shoxbet.us" tvg-name="USA SHO x BET UHD" tvg-logo="https://logo.iptveditor.com/shoxbet.png" group-title="USA | Ultra HD Exclusive",USA SHO x BET UHD
+http://lordstreams.live:80/Oasis/Oasis/268894
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="smithsonianchannel.us" tvg-name="USA Smithsonian UHD" tvg-logo="https://logo.iptveditor.com/smithsonian.png" group-title="USA | Ultra HD Exclusive",USA Smithsonian UHD
+http://lordstreams.live:80/Oasis/Oasis/268893
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreaction.us" tvg-name="USA Starz Encore Action UHD" tvg-logo="https://logo.iptveditor.com/starzencoreaction.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Action UHD
+http://lordstreams.live:80/Oasis/Oasis/268892
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzkids&family.us" tvg-name="USA Starz Kids And Family UHD" tvg-logo="https://logo.iptveditor.com/starzkidsandfamily.png" group-title="USA | Ultra HD Exclusive",USA Starz Kids And Family UHD
+http://lordstreams.live:80/Oasis/Oasis/268891
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcinema.us" tvg-name="USA Starz Cinema UHD" tvg-logo="https://logo.iptveditor.com/starzcinema.png" group-title="USA | Ultra HD Exclusive",USA Starz Cinema UHD
+http://lordstreams.live:80/Oasis/Oasis/268890
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzcomedy.us" tvg-name="USA Starz Comedy UHD" tvg-logo="https://logo.iptveditor.com/starzcomedy.png" group-title="USA | Ultra HD Exclusive",USA Starz Comedy UHD
+http://lordstreams.live:80/Oasis/Oasis/268889
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencore.us" tvg-name="USA Starz Encore UHD" tvg-logo="https://logo.iptveditor.com/starzencore.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore UHD
+http://lordstreams.live:80/Oasis/Oasis/268888
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starz.us" tvg-name="USA Starz UHD" tvg-logo="https://logo.iptveditor.com/starz.png" group-title="USA | Ultra HD Exclusive",USA Starz UHD
+http://lordstreams.live:80/Oasis/Oasis/268887
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzedge.us" tvg-name="USA Starz Edge UHD" tvg-logo="https://logo.iptveditor.com/starzedge.png" group-title="USA | Ultra HD Exclusive",USA Starz Edge UHD
+http://lordstreams.live:80/Oasis/Oasis/268886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzblack.us" tvg-name="USA Starz In Black UHD" tvg-logo="https://logo.iptveditor.com/starzblack.png" group-title="USA | Ultra HD Exclusive",USA Starz In Black UHD
+http://lordstreams.live:80/Oasis/Oasis/268885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzwest.us" tvg-name="USA Starz West UHD" tvg-logo="https://logo.iptveditor.com/starzwest.png" group-title="USA | Ultra HD Exclusive",USA Starz West UHD
+http://lordstreams.live:80/Oasis/Oasis/268884
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreblack.us" tvg-name="USA Starz Encore Black UHD" tvg-logo="https://logo.iptveditor.com/starzencoreblack.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Black UHD
+http://lordstreams.live:80/Oasis/Oasis/268883
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoreclassic.us" tvg-name="USA Starz Encore Classic UHD" tvg-logo="https://logo.iptveditor.com/starzencoreclassic.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Classic UHD
+http://lordstreams.live:80/Oasis/Oasis/268882
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorefamily.us" tvg-name="USA Starz Encore Family UHD" tvg-logo="https://logo.iptveditor.com/starzencorefamily.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Family UHD
+http://lordstreams.live:80/Oasis/Oasis/268881
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencoresuspense.us" tvg-name="USA Starz Encore Suspense UHD" tvg-logo="https://logo.iptveditor.com/starzencoresuspense.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Suspense UHD
+http://lordstreams.live:80/Oasis/Oasis/268880
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorewest.us" tvg-name="USA Starz Encore West UHD" tvg-logo="https://logo.iptveditor.com/starzencorewest.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore West UHD
+http://lordstreams.live:80/Oasis/Oasis/268879
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzencorewesterns.us" tvg-name="USA Starz Encore Westerns UHD" tvg-logo="https://logo.iptveditor.com/encorewesterns.png" group-title="USA | Ultra HD Exclusive",USA Starz Encore Westerns UHD
+http://lordstreams.live:80/Oasis/Oasis/268878
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sundancetv.us" tvg-name="USA Sundance UHD" tvg-logo="https://logo.iptveditor.com/sundance.png" group-title="USA | Ultra HD Exclusive",USA Sundance UHD
+http://lordstreams.live:80/Oasis/Oasis/268877
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="syfy.us" tvg-name="USA Syfy UHD" tvg-logo="https://logo.iptveditor.com/syfy.png" group-title="USA | Ultra HD Exclusive",USA Syfy UHD
+http://lordstreams.live:80/Oasis/Oasis/268876
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tbs.us" tvg-name="USA TBS UHD" tvg-logo="https://logo.iptveditor.com/tbs.png" group-title="USA | Ultra HD Exclusive",USA TBS UHD
+http://lordstreams.live:80/Oasis/Oasis/268875
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tbswest.us" tvg-name="USA TBS West UHD" tvg-logo="https://logo.iptveditor.com/tbswest.png" group-title="USA | Ultra HD Exclusive",USA TBS West UHD
+http://lordstreams.live:80/Oasis/Oasis/268874
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="turnerclassicmovies.us" tvg-name="USA TCM UHD" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="USA | Ultra HD Exclusive",USA TCM UHD
+http://lordstreams.live:80/Oasis/Oasis/268873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tennischannel.us" tvg-name="USA Tennis Channel UHD" tvg-logo="https://logo.iptveditor.com/tennischannel.png" group-title="USA | Ultra HD Exclusive",USA Tennis Channel UHD
+http://lordstreams.live:80/Oasis/Oasis/268872
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="theweatherchannel.us" tvg-name="USA The Weather Channel UHD" tvg-logo="https://logo.iptveditor.com/theweatherchannel.png" group-title="USA | Ultra HD Exclusive",USA The Weather Channel UHD
+http://lordstreams.live:80/Oasis/Oasis/268871
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="themoviechannel.us" tvg-name="USA The Movie Channel" tvg-logo="https://logo.iptveditor.com/themoviechannel.png" group-title="USA | Ultra HD Exclusive",USA The Movie Channel
+http://lordstreams.live:80/Oasis/Oasis/268870
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="themoviechannelxtra.us" tvg-name="USA The Movie Channel Xtra" tvg-logo="https://logo.iptveditor.com/themoviechannelxtra.png" group-title="USA | Ultra HD Exclusive",USA The Movie Channel Xtra
+http://lordstreams.live:80/Oasis/Oasis/268869
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thefirst.us" tvg-name="USA The First UHD" tvg-logo="https://logo.iptveditor.com/thefirst.png" group-title="USA | Ultra HD Exclusive",USA The First UHD
+http://lordstreams.live:80/Oasis/Oasis/268868
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thegrio.us" tvg-name="USA The Grio" tvg-logo="https://logo.iptveditor.com/thegrio.png" group-title="USA | Ultra HD Exclusive",USA The Grio
+http://lordstreams.live:80/Oasis/Oasis/268867
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tlc.us" tvg-name="USA TLC UHD" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="USA | Ultra HD Exclusive",USA TLC UHD
+http://lordstreams.live:80/Oasis/Oasis/268866
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tnt.us" tvg-name="USA TNT UHD" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="USA | Ultra HD Exclusive",USA TNT UHD
+http://lordstreams.live:80/Oasis/Oasis/268865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tntwest.us" tvg-name="USA TNT West UHD" tvg-logo="https://logo.iptveditor.com/tntwest.png" group-title="USA | Ultra HD Exclusive",USA TNT West UHD
+http://lordstreams.live:80/Oasis/Oasis/268864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="travelchannel.us" tvg-name="USA Travel Channel UHD" tvg-logo="https://logo.iptveditor.com/travelchannel.png" group-title="USA | Ultra HD Exclusive",USA Travel Channel UHD
+http://lordstreams.live:80/Oasis/Oasis/268863
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="trutv.us" tvg-name="USA Tru TV UHD" tvg-logo="https://logo.iptveditor.com/trutv.png" group-title="USA | Ultra HD Exclusive",USA Tru TV UHD
+http://lordstreams.live:80/Oasis/Oasis/268862
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tudn.us" tvg-name="USA TUDN UHD" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="USA | Ultra HD Exclusive",USA TUDN UHD
+http://lordstreams.live:80/Oasis/Oasis/268861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvland.us" tvg-name="USA TV Land UHD" tvg-logo="https://logo.iptveditor.com/tvland.png" group-title="USA | Ultra HD Exclusive",USA TV Land UHD
+http://lordstreams.live:80/Oasis/Oasis/268860
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tvone.us" tvg-name="USA TV One UHD" tvg-logo="https://logo.iptveditor.com/tvone.png" group-title="USA | Ultra HD Exclusive",USA TV One UHD
+http://lordstreams.live:80/Oasis/Oasis/268859
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="universalkids.us" tvg-name="USA Universal Kids UHD" tvg-logo="https://logo.iptveditor.com/universalkids.png" group-title="USA | Ultra HD Exclusive",USA Universal Kids UHD
+http://lordstreams.live:80/Oasis/Oasis/268858
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nbcuniverso.us" tvg-name="USA NBC Universo UHD" tvg-logo="https://logo.iptveditor.com/nbcuniverso.png" group-title="USA | Ultra HD Exclusive",USA NBC Universo UHD
+http://lordstreams.live:80/Oasis/Oasis/268857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="univision.us" tvg-name="USA Univison UHD" tvg-logo="https://logo.iptveditor.com/univision.png" group-title="USA | Ultra HD Exclusive",USA Univison UHD
+http://lordstreams.live:80/Oasis/Oasis/268856
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="network.us" tvg-name="USA Network UHD" tvg-logo="https://logo.iptveditor.com/usanetwork.png" group-title="USA | Ultra HD Exclusive",USA Network UHD
+http://lordstreams.live:80/Oasis/Oasis/268855
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vh1.us" tvg-name="USA VH 1 UHD" tvg-logo="https://logo.iptveditor.com/vh1.png" group-title="USA | Ultra HD Exclusive",USA VH 1 UHD
+http://lordstreams.live:80/Oasis/Oasis/268854
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sbsviceland.au" tvg-name="USA Vice UHD" tvg-logo="https://logo.iptveditor.com/vice.png" group-title="USA | Ultra HD Exclusive",USA Vice UHD
+http://lordstreams.live:80/Oasis/Oasis/268853
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wetv.us" tvg-name="USA We TV" tvg-logo="https://logo.iptveditor.com/wetv.png" group-title="USA | Ultra HD Exclusive",USA We TV
+http://lordstreams.live:80/Oasis/Oasis/268852
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="latinocinema.us" tvg-name="USA Cinemax Latino UHD" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="USA | Ultra HD Exclusive",USA Cinemax Latino UHD
+http://lordstreams.live:80/Oasis/Oasis/268851
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nesn.us" tvg-name="USA NESN UHD" tvg-logo="https://logo.iptveditor.com/nesn.png" group-title="USA | Ultra HD Exclusive",USA NESN UHD
+http://lordstreams.live:80/Oasis/Oasis/268850
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nesn+.us" tvg-name="USA NESN+ UHD" tvg-logo="https://logo.iptveditor.com/nesn.png" group-title="USA | Ultra HD Exclusive",USA NESN+ UHD
+http://lordstreams.live:80/Oasis/Oasis/268849
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="marqueesportsnetwork.us" tvg-name="USA Marquee Sports Network UHD" tvg-logo="https://logo.iptveditor.com/marqueesportsnetwork.png" group-title="USA | Ultra HD Exclusive",USA Marquee Sports Network UHD
+http://lordstreams.live:80/Oasis/Oasis/268847
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mtvclassic.us" tvg-name="USA MTV Classic UHD" tvg-logo="https://logo.iptveditor.com/mtvclassic.png" group-title="USA | Ultra HD Exclusive",USA MTV Classic UHD
+http://lordstreams.live:80/Oasis/Oasis/268846
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="yesnetwork.us" tvg-name="USA YES Network" tvg-logo="https://logo.iptveditor.com/yesnetwork.png" group-title="USA | Ultra HD Exclusive",USA YES Network
+http://lordstreams.live:80/Oasis/Oasis/268845
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mlbstrikezone.us" tvg-name="USA MLB Strike Zone UHD" tvg-logo="https://logo.iptveditor.com/mlbstrikezone.png" group-title="USA | Ultra HD Exclusive",USA MLB Strike Zone UHD
+http://lordstreams.live:80/Oasis/Oasis/268843
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="msg.us" tvg-name="USA MSG UHD" tvg-logo="https://logo.iptveditor.com/msg.png" group-title="USA | Ultra HD Exclusive",USA MSG UHD
+http://lordstreams.live:80/Oasis/Oasis/268842
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="msgzone2.us" tvg-name="USA MSG ALT1 UHD" tvg-logo="https://logo.iptveditor.com/msg2.png" group-title="USA | Ultra HD Exclusive",USA MSG ALT1 UHD
+http://lordstreams.live:80/Oasis/Oasis/268841
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="msgzone2.us" tvg-name="USA MSG ALT2 UHD" tvg-logo="https://logo.iptveditor.com/msg2.png" group-title="USA | Ultra HD Exclusive",USA MSG ALT2 UHD
+http://lordstreams.live:80/Oasis/Oasis/268840
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="msgzone3.us" tvg-name="USA MSG ALT3 UHD" tvg-logo="https://logo.iptveditor.com/msgzone1.png" group-title="USA | Ultra HD Exclusive",USA MSG ALT3 UHD
+http://lordstreams.live:80/Oasis/Oasis/268839
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="familymovieclassics.us" tvg-name="USA FMC Family Movie Classics UHD" tvg-logo="https://logo.iptveditor.com/familymovies.png" group-title="USA | Ultra HD Exclusive",USA FMC Family Movie Classics UHD
+http://lordstreams.live:80/Oasis/Oasis/268837
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sportsgrid.us" tvg-name="USA Sports Grid UHD" tvg-logo="https://logo.iptveditor.com/sportsgrid.png" group-title="USA | Ultra HD Exclusive",USA Sports Grid UHD
+http://lordstreams.live:80/Oasis/Oasis/268836
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="uptv.us" tvg-name="USA UP TV UHD" tvg-logo="https://logo.iptveditor.com/uptv.png" group-title="USA | Ultra HD Exclusive",USA UP TV UHD
+http://lordstreams.live:80/Oasis/Oasis/268834
